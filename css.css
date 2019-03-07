@@ -1,0 +1,36 @@
+body {
+    background-color: lightseagreen;
+    text-align: center;
+}
+
+h1 {
+    color:purple;
+}
+ h2 {
+     color: orange;
+ }
+
+ h3 {
+     color: yellow;
+ }
+
+ h4 {
+     color: green;
+ }
+
+ h5 {
+     color: blue;
+ }
+
+ h6 {
+     color: purple;
+ }
+
+ p {
+     color: white;
+ }
+
+ .navbar {
+     background-color: red;
+     border: 3px solid black;
+ }
